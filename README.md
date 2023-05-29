@@ -1,2 +1,2 @@
-# serpent
+# About
 Serpent browser
